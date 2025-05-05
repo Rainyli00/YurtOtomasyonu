@@ -5,11 +5,11 @@ Yurt Otomasyonu, bir öğrenci yurdundaki yönetim işlerinin dijital ortamda ko
 
 ## 🚀 Özellikler
 
-- 🎓 **Öğrenci Kaydı:** Öğrenci ekleme, düzenleme ve silme işlemleri
+- 🎓 **Öğrenci Kaydı:** Öğrenci Listesi , ekleme, düzenleme ve silme işlemleri
 - 🛏️ **Oda Kontenjan Listesi:** Oda doluluk durumu takibi ve kontenjan kontrolü
 - 🔐 **Yönetici Paneli:** Tüm sistemin yönetimi için giriş kontrollü yönetici arayüzü
 - 💰 **Gelir-Gider Paneli:** Mali işlemlerin takibi ve kayıt altında tutulması
-- 📊 **Grafikler:** Gelir-gider durumu ve oda doluluk oranları için görsel grafik gösterimi
+- 📊 **Grafikler:** Gelir-gider durumu ve oda doluluk durumu gösterimi
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -17,8 +17,4 @@ Yurt Otomasyonu, bir öğrenci yurdundaki yönetim işlerinin dijital ortamda ko
 - 🧱 **.NET Framework**
 - 🗄️ **Microsoft SQL Server (MSSQL)** – Veritabanı yönetimi
 - 🔗 **Entity Framework** – ORM aracı olarak
-
-## 📷 Ekran Görüntüleri
-
-> Uygulamadan bazı örnek ekran görüntülerini buraya ekleyebilirsiniz:
 
