@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|c:\\users\\mehme\\desktop\\otomasyon\\yurtkayitotomasyon\\yurtkayitotomasyon\\frmogrencikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|solutionrelative:yurtkayitotomasyon\\frmogrencikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|c:\\users\\mehme\\desktop\\otomasyon\\yurtkayitotomasyon\\yurtkayitotomasyon\\frmogrencikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|solutionrelative:yurtkayitotomasyon\\frmogrencikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|c:\\users\\mehme\\desktop\\otomasyon\\yurtkayitotomasyon\\yurtkayitotomasyon\\frmogrencid\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|solutionrelative:yurtkayitotomasyon\\frmogrencid\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|c:\\users\\mehme\\desktop\\otomasyon\\yurtkayitotomasyon\\yurtkayitotomasyon\\frmgelirrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|solutionrelative:yurtkayitotomasyon\\frmgelirrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|c:\\users\\mehme\\desktop\\otomasyon\\yurtkayitotomasyon\\yurtkayitotomasyon\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|solutionrelative:yurtkayitotomasyon\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|c:\\users\\mehme\\desktop\\otomasyon\\yurtkayitotomasyon\\yurtkayitotomasyon\\frmgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|solutionrelative:yurtkayitotomasyon\\frmgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|c:\\users\\mehme\\desktop\\otomasyon\\yurtkayitotomasyon\\yurtkayitotomasyon\\frmgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|solutionrelative:yurtkayitotomasyon\\frmgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|c:\\users\\mehme\\desktop\\otomasyon\\yurtkayitotomasyon\\yurtkayitotomasyon\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|solutionrelative:yurtkayitotomasyon\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\yurtkayitotomasyon\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|solutionrelative:yurtkayitotomasyon\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\yurtkayitotomasyon\\frmanaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5AA1D3-7B17-4EA9-8416-CA8087819028}|YurtKayitOtomasyon\\YurtKayitOtomasyon.csproj|solutionrelative:yurtkayitotomasyon\\frmanaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmOgrenciKayit.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmOgrenciKayit.cs",
+              "RelativeDocumentMoniker": "YurtKayitOtomasyon\\FrmOgrenciKayit.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmOgrenciKayit.cs",
+              "RelativeToolTip": "YurtKayitOtomasyon\\FrmOgrenciKayit.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:42:58.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOgrenciKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmOgrenciKayit.cs",
+              "RelativeDocumentMoniker": "YurtKayitOtomasyon\\FrmOgrenciKayit.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmOgrenciKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtKayitOtomasyon\\FrmOgrenciKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:42:55.754Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOgrenciD\u00FCzenleme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmOgrenciD\u00FCzenleme.cs",
+              "RelativeDocumentMoniker": "YurtKayitOtomasyon\\FrmOgrenciD\u00FCzenleme.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmOgrenciD\u00FCzenleme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtKayitOtomasyon\\FrmOgrenciD\u00FCzenleme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:42:52.766Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGelirRapor.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmGelirRapor.cs",
+              "RelativeDocumentMoniker": "YurtKayitOtomasyon\\FrmGelirRapor.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmGelirRapor.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtKayitOtomasyon\\FrmGelirRapor.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:42:51.15Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAdminGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "YurtKayitOtomasyon\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmAdminGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtKayitOtomasyon\\FrmAdminGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:42:47.628Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmGider.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmGider.cs",
+              "RelativeDocumentMoniker": "YurtKayitOtomasyon\\FrmGider.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmGider.cs",
+              "RelativeToolTip": "YurtKayitOtomasyon\\FrmGider.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:30:45.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmGider.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmGider.cs",
+              "RelativeDocumentMoniker": "YurtKayitOtomasyon\\FrmGider.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmGider.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YurtKayitOtomasyon\\FrmGider.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:30:30.224Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAnaForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmAnaForm.Designer.cs",
+              "RelativeDocumentMoniker": "YurtKayitOtomasyon\\FrmAnaForm.Designer.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmAnaForm.Designer.cs",
+              "RelativeToolTip": "YurtKayitOtomasyon\\FrmAnaForm.Designer.cs",
+              "ViewState": "AgIAALIBAAAAAAAAAAAgwMMBAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:54:57.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "YurtKayitOtomasyon\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmAnaForm.cs",
+              "RelativeToolTip": "YurtKayitOtomasyon\\FrmAnaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwDIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:54:50.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmAnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "YurtKayitOtomasyon\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Otomasyon\\YurtKayitOtomasyon\\YurtKayitOtomasyon\\FrmAnaForm.cs [Design]",
+              "RelativeToolTip": "YurtKayitOtomasyon\\FrmAnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:51:32.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
